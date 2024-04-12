@@ -1,5 +1,7 @@
 package app.Sensor;
 
+import app.observer.Observer;
+
 import java.util.ArrayList;
 import java.util.List;
 

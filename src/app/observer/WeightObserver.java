@@ -1,6 +1,5 @@
 package app.observer;
 
-import app.Sensor.Observer;
 import app.Sensor.Sensor;
 
 public class WeightObserver extends Observer {

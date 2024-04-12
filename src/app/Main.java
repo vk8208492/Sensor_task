@@ -15,8 +15,8 @@ public class Main {
         new WeightObserver(sensor);
         new TemperatureObserver(sensor);
 
-        System.out.println("First temperature: 0");
-        sensor.setState(0);
+        System.out.println("First temperature: -1");
+        sensor.setState(-1);
         System.out.println("First weight: 1");
         sensor.setState(1);
         System.out.println("First state.color: white");

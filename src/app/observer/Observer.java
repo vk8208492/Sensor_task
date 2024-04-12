@@ -1,4 +1,6 @@
-package app.Sensor;
+package app.observer;
+
+import app.Sensor.Sensor;
 
 public abstract class Observer {
 
